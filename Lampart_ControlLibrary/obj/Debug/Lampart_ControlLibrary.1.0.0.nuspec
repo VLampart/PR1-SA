@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Lampart_ControlLibrary</id>
+    <version>1.0.0</version>
+    <authors>Lampart_ControlLibrary</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="74b38b0ab1baa1488c458776c2a053e8c2056126" />
+    <dependencies>
+      <group targetFramework="net8.0-windows7.0" />
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows7.0">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+  </metadata>
+  <files>
+    <file src="D:\KHAI\.NET\Lr01_Lampart\Lampart_ControlLibrary\bin\Debug\net8.0-windows\Lampart_ControlLibrary.dll" target="lib\net8.0-windows7.0\Lampart_ControlLibrary.dll" />
+  </files>
+</package>

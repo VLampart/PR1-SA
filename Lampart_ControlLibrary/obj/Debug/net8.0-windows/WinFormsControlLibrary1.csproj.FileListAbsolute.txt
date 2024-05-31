@@ -1,0 +1,13 @@
+C:\Users\Taldusf\source\repos\Lr01_Lampart\WinFormsControlLibrary1\obj\Debug\net8.0-windows\WinFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\Taldusf\source\repos\Lr01_Lampart\WinFormsControlLibrary1\obj\Debug\net8.0-windows\WinFormsControlLibrary1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Taldusf\source\repos\Lr01_Lampart\WinFormsControlLibrary1\obj\Debug\net8.0-windows\WinFormsControlLibrary1.AssemblyInfoInputs.cache
+C:\Users\Taldusf\source\repos\Lr01_Lampart\WinFormsControlLibrary1\obj\Debug\net8.0-windows\WinFormsControlLibrary1.AssemblyInfo.cs
+C:\Users\Taldusf\source\repos\Lr01_Lampart\WinFormsControlLibrary1\obj\Debug\net8.0-windows\WinFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Taldusf\source\repos\Lr01_Lampart\WinFormsControlLibrary1\bin\Debug\net8.0-windows\WinFormsControlLibrary1.deps.json
+C:\Users\Taldusf\source\repos\Lr01_Lampart\WinFormsControlLibrary1\bin\Debug\net8.0-windows\WinFormsControlLibrary1.dll
+C:\Users\Taldusf\source\repos\Lr01_Lampart\WinFormsControlLibrary1\bin\Debug\net8.0-windows\WinFormsControlLibrary1.pdb
+C:\Users\Taldusf\source\repos\Lr01_Lampart\WinFormsControlLibrary1\obj\Debug\net8.0-windows\WinFormsControlLibrary1.dll
+C:\Users\Taldusf\source\repos\Lr01_Lampart\WinFormsControlLibrary1\obj\Debug\net8.0-windows\refint\WinFormsControlLibrary1.dll
+C:\Users\Taldusf\source\repos\Lr01_Lampart\WinFormsControlLibrary1\obj\Debug\net8.0-windows\WinFormsControlLibrary1.pdb
+C:\Users\Taldusf\source\repos\Lr01_Lampart\WinFormsControlLibrary1\obj\Debug\net8.0-windows\ref\WinFormsControlLibrary1.dll
+C:\Users\Taldusf\source\repos\Lr01_Lampart\WinFormsControlLibrary1\obj\Debug\net8.0-windows\WinFormsControlLibrary1.Edited_NotifyIcon.resources

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Lr01_Lampart/1.0.0": {
+        "dependencies": {
+          "Lampart_ControlLibrary": "1.0.0"
+        },
+        "runtime": {
+          "Lr01_Lampart.dll": {}
+        }
+      },
+      "Lampart_ControlLibrary/1.0.0": {
+        "runtime": {
+          "Lampart_ControlLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Lr01_Lampart/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Lampart_ControlLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

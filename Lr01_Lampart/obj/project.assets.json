@@ -1,0 +1,104 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "Lampart_ControlLibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Lampart_ControlLibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lampart_ControlLibrary.dll": {}
+        },
+        "frameworkReferences": [
+          "Microsoft.WindowsDesktop.App.WindowsForms"
+        ]
+      }
+    }
+  },
+  "libraries": {
+    "Lampart_ControlLibrary/1.0.0": {
+      "type": "project",
+      "path": "../Lampart_ControlLibrary/Lampart_ControlLibrary.csproj",
+      "msbuildProject": "../Lampart_ControlLibrary/Lampart_ControlLibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "Lampart_ControlLibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Taldusf\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\KHAI\\.NET\\Lr01_Lampart\\Lr01_Lampart\\Lr01_Lampart.csproj",
+      "projectName": "Lr01_Lampart",
+      "projectPath": "D:\\KHAI\\.NET\\Lr01_Lampart\\Lr01_Lampart\\Lr01_Lampart.csproj",
+      "packagesPath": "C:\\Users\\Taldusf\\.nuget\\packages\\",
+      "outputPath": "D:\\KHAI\\.NET\\Lr01_Lampart\\Lr01_Lampart\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Taldusf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "D:\\KHAI\\.NET\\Lr01_Lampart\\Lampart_ControlLibrary\\bin\\Debug": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "D:\\KHAI\\.NET\\Lr01_Lampart\\Lampart_ControlLibrary\\Lampart_ControlLibrary.csproj": {
+              "projectPath": "D:\\KHAI\\.NET\\Lr01_Lampart\\Lampart_ControlLibrary\\Lampart_ControlLibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "dependencies": {
+          "Lampart_ControlLibrary": {
+            "target": "Package",
+            "version": "[1.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
